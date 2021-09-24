@@ -1,3 +1,3 @@
 # GitPractice
 
-GitPractice_hazzun
+Git Conflict & Merge: Solve Merge Confict 준수, 상원, hazzun
