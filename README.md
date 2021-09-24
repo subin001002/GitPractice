@@ -1,3 +1,3 @@
 # GitPractice
 
-Git Conflict & Merge
+Git Conflict & Merge: Solve Merge Confict
