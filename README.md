@@ -1,1 +1,3 @@
 # GitPractice
+
+Git Conflict & Merge
